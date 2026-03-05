@@ -1,0 +1,5 @@
+{
+  "name": "World Calendar Explorer",
+  "description": "Displays today's date in various ancient and modern calendars.",
+  "requestFramePermissions": []
+}
